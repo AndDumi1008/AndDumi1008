@@ -40,12 +40,6 @@ Also: Scala, Python, Hibernate/JPA, WebSockets, MSSQL, Oracle, MongoDB, Next.js,
 
 Full write-ups on [anddumi1008.github.io](https://anddumi1008.github.io/#work). The code for these lives in private client repositories.
 
-## Public repos
-
-- [personal_finance_tracker](https://github.com/AndDumi1008/personal_finance_tracker) · budget and expense tracking, Java
-- [Python-web-Scraper](https://github.com/AndDumi1008/Python-web-Scraper) · scraping and monitoring scripts, Python
-- [anddumi1008.github.io](https://github.com/AndDumi1008/anddumi1008.github.io) · this portfolio, plain HTML and CSS
-
 ## Now
 
 - Looking for a backend or full-stack role, Java or TypeScript, remote or in Timișoara.
