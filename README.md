@@ -45,9 +45,6 @@ Full write-ups on [anddumi1008.github.io](https://anddumi1008.github.io/#work). 
 - Looking for a backend or full-stack role, Java or TypeScript, remote or in Timișoara.
 - Recently: Rust payment orchestration, LLM integration with retry-safe job queues, release engineering for mobile.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndDumi1008&show_icons=true&hide_border=true&bg_color=d9d7cf&title_color=141413&text_color=55534c&icon_color=ff4d00&hide_title=true&rank_icon=none)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndDumi1008&layout=compact&hide_border=true&bg_color=d9d7cf&title_color=141413&text_color=55534c&hide_title=true)
-
 ## Contact
 
 andrei.dumitrescu100801@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrei-dumitrescu-b75615207) · [anddumi1008.github.io](https://anddumi1008.github.io/)
