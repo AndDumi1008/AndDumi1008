@@ -1,12 +1,12 @@
 # Andrei Dumitrescu
 
-**Software Engineer · Technical Lead** · Java & Spring Boot · TypeScript & Node.js · PostgreSQL
-Timișoara, Romania · EU work authorization · **available immediately**
+**Full Stack Software Engineer · Technical Lead** · Java & Spring Boot · React · TypeScript & Node.js · PostgreSQL
+Timișoara, Romania · EU citizen · remote (EU) or on site · **available immediately**
 
-I build backend services and full-stack products, then test them the way an attacker would. Most recently technical lead on a production AI app (2,800+ users, 95,000+ messages) at ZettaSource; before that, three years of enterprise Java at Ness Digital Engineering across fraud/AML, logistics and tourism.
+Java-first full stack engineer with four years in production: three of enterprise Java and Spring Boot at Ness Digital Engineering (microservices, Kafka, REST/SOAP, CI/CD; fraud/AML, logistics), then a year as technical lead on a production AI companion app (2,800+ users, 95,000+ messages) built full stack in TypeScript, React and PostgreSQL at ZettaSource.
 
 [![Portfolio](https://img.shields.io/badge/anddumi1008.github.io-141413?style=flat-square&logo=githubpages&logoColor=d9d7cf)](https://anddumi1008.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141413?style=flat-square&logo=linkedin&logoColor=d9d7cf)](https://www.linkedin.com/in/andrei-dumitrescu-b75615207)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141413?style=flat-square&logo=linkedin&logoColor=d9d7cf)](https://www.linkedin.com/in/andrei-d-b75615207)
 [![CV](https://img.shields.io/badge/CV-PDF-ff4d00?style=flat-square)](https://anddumi1008.github.io/assets/Andrei_Dumitrescu_CV.pdf)
 
 ## Stack
@@ -27,7 +27,7 @@ I build backend services and full-stack products, then test them the way an atta
 ![Rust](https://img.shields.io/badge/Rust-141413?style=flat-square&logo=rust&logoColor=d9d7cf)
 ![OpenAI](https://img.shields.io/badge/OpenAI-141413?style=flat-square&logo=openai&logoColor=d9d7cf)
 
-Also: Scala, Python, Hibernate/JPA, WebSockets, MSSQL, Oracle, MongoDB, Next.js, Tailwind, Capacitor, Jenkins, Azure DevOps, Grafana, JUnit/Mockito, Vitest, Maestro, Selenium/Cucumber, BPMN 2.0, RevenueCat, PostHog, OneSignal.
+Also: Hibernate/JPA, WebSockets, async job queues, MSSQL, Oracle, MongoDB, Vite, Tailwind, Capacitor, Jenkins, SonarQube, Nexus, Azure DevOps, JUnit/Mockito, Rest Assured, Vitest, Maestro, Selenium/Cucumber, BPMN 2.0, RevenueCat, PostHog, OneSignal, Claude Code, Cursor.
 
 ## Selected work
 
@@ -47,4 +47,4 @@ Full write-ups on [anddumi1008.github.io](https://anddumi1008.github.io/#work). 
 
 ## Contact
 
-andrei.dumitrescu100801@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrei-dumitrescu-b75615207) · [anddumi1008.github.io](https://anddumi1008.github.io/)
+andrei.dumitrescu100801@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrei-d-b75615207) · [anddumi1008.github.io](https://anddumi1008.github.io/)
